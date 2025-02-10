@@ -81,6 +81,13 @@ body, html {
   transform: translateY(-1px);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
+.language-selector option {
+  background-color: var(--color-gray-800);
+  color: var(--color-gray-50);
+  padding: var(--space-2);
+  font-size: var(--font-size-sm);
+}
+
 
 .language-selector:focus {
   outline: none;
