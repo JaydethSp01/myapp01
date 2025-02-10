@@ -1,8 +1,3 @@
-Aquí tienes el contenido del README.md en formato Markdown:
-
----
-
-```markdown
 # Aplicación Multilingüe React
 
 Esta aplicación es un ejemplo de internacionalización en React utilizando **i18next** y **react-i18next**. Permite cambiar el idioma de forma dinámica (soporte para Español, Inglés, Francés y Alemán) y muestra una imagen representativa del país según el idioma seleccionado.
